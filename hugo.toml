@@ -4,5 +4,28 @@ title = '老梵的随笔空间'
 theme = 'ananke'
 
 [params]
-  description = '老梵的个人随笔和思考'
-  author = '老梵'
+description = '老梵的个人随笔和思考'
+author = '老梵'
+showVisitedLinks = true
+
+[[menu.main]]
+name = "首页"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "归档"
+url = "/archives/"
+weight = 2
+
+[[menu.main]]
+name = "关于"
+url = "/about/"
+weight = 3
+
+[params]
+# 显示阅读时间和字数
+showReadingTime = true
+
+# 社交链接（可选的）
+# github = "vanvj00001"
