@@ -1,4 +1,8 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Project'
-theme = "ananke"
+baseURL = 'https://vanvj00001.github.io/my-blog/'
+languageCode = 'zh-cn'
+title = '老梵的随笔空间'
+theme = 'ananke'
+
+[params]
+  description = '老梵的个人随笔和思考'
+  author = '老梵'
