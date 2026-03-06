@@ -1,6 +1,6 @@
 ---
-title: "归档"
-layout: "archives"
+title: "索引"
+layout: "search"
 menu:
     main:
         weight: 30
