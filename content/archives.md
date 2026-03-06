@@ -1,6 +1,6 @@
 ---
 title: "索引"
-layout: "search"
+layout: "archives"
 menu:
     main:
         weight: 30
