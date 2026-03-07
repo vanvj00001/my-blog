@@ -7,7 +7,7 @@ theme = 'PaperMod'
 
 [params]
 description = '老梵的个人随笔和思考'
-
+author = '老梵'
 showVisitedLinks = true
 showReadingTime = true
 summaryLength = 200
