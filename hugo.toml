@@ -21,10 +21,6 @@ name = "首页"
 url = "/"
 weight = 1
 
-[[menu.main]]
-name = "归档"
-url = "/archives/"
-weight = 2
 
 [[menu.main]]
 name = "搜索"
