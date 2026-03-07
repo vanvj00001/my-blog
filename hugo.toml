@@ -18,9 +18,8 @@ defaultTheme = 'auto'
 
 
 # PaperMod 特定配置
-homeInfoParams:
-Title: "最新文章"
-
+[params.homeInfoParams]
+Title = "最新文章"
 
 [author]
 name = '老梵'
