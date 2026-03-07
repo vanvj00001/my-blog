@@ -18,8 +18,24 @@ defaultTheme = 'auto'
 
 
 # PaperMod 特定配置
+
 [params.homeInfoParams]
-Title = "最新文章"
+  Title = "老梵的随笔空间"
+  Content = "记录生活思考与人生分享"
+  
+  # 首页信息卡片
+  HomeInfoDisplay = true
+  HomeInfoTitle = "关于博主"
+  HomeInfoContent = "热爱技术、哲学与生活的思考者"
+  
+  # 社交链接
+  Social = true
+  Email = "vanvj@qq.com"
+  
+  # 外观
+  HomeInfoStyle = "card"
+  HomeInfoAnimation = true
+
 
 [author]
 name = '老梵'
