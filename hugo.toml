@@ -1,46 +1,46 @@
-
-
-baseURL = 'https://vanvj00001.github.io/my-blog/'
-languageCode = 'zh-cn'
-title = '老梵的随笔空间'
-theme = 'PaperMod'
+baseURL = "https://vanvj00001.github.io/my-blog/"
+languageCode = "zh-cn"
+title = "老梵"
+theme = "PaperMod"
+paginate = 8
 
 [params]
-description = '老梵的个人随笔和思考'
-author = '老梵'
-showVisitedLinks = true
-showReadingTime = true
-summaryLength = 300
-showPostNavigation = true
-postSeparator = "<!--more-->"
-showSummary = true
-defaultTheme = 'auto'
+  mainSections = ["posts"]
+  disableSpecial1stPost = true
+  defaultTheme = "auto"
+  ShowReadingTime = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowToc = true
+  TocOpen = false
 
-
-# PaperMod 特定配置
-
-[params.homeInfoParams]
-  Title = "老梵的随笔空间"
-  Content = "记录生活思考与人生分享"
-  
-  # 首页信息卡片
-  HomeInfoDisplay = true
-  HomeInfoTitle = "关于博主"
-  HomeInfoContent = "热爱技术、哲学与生活的思考者"
-  
-  # 社交链接
-  Social = true
-  Email = "vanvj@qq.com"
-  
-  # 外观
-  HomeInfoStyle = "card"
-  HomeInfoAnimation = true
-
-
-[author]
-name = '老梵'
+  [params.author]
+    name = "老梵"
 
 [[menu.main]]
-name = "关于"
-url = "/about/"
-weight = 4
+  identifier = "archives"
+  name = "归档"
+  url = "/archives/"
+  weight = 10
+
+[[menu.main]]
+  identifier = "search"
+  name = "搜索"
+  url = "/search/"
+  weight = 20
+
+[[menu.main]]
+  identifier = "tags"
+  name = "标签"
+  url = "/tags/"
+  weight = 30
+
+[[menu.main]]
+  identifier = "about"
+  name = "关于"
+  url = "/about/"
+  weight = 40
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
