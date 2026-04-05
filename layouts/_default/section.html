@@ -1,0 +1,52 @@
+{{- define "title" -}}
+  {{- .Title -}}
+{{- end -}}
+
+{{- define "content" -}}
+<div class="page">
+<h1>{{ .Title }}</h1>
+
+{{- $pages := .Site.RegularPages -}}
+{{- $pages = where $pages "Section" "in" .Site.MainSections -}}
+
+{{- /* Get all tags from pages */ -}}
+{{- $tagData := slice -}}
+{{- range $pages -}}
+  {{- $page := . -}}
+  {{- range .GetTerms "tags" -}}
+    {{- $tagData = $tagData | append (dict "tag" .LinkTitle "page" $page) -}}
+  {{- end -}}
+{{- end -}}
+
+{{- /* Group by tag */ -}}
+{{- $grouped := dict -}}
+{{- range $tagData -}}
+  {{- $tag := .tag -}}
+  {{- $p := .page -}}
+  {{- $existing := index $grouped $tag -}}
+  {{- if $existing -}}
+    {{- $existing = $existing | append $p -}}
+    {{- $grouped = merge $grouped (dict $tag $existing) -}}
+  {{- else -}}
+    {{- $grouped = merge $grouped (dict $tag (slice $p)) -}}
+  {{- end -}}
+{{- end -}}
+
+{{- /* Sort tags alphabetically */ -}}
+{{- $sortedTags := slice -}}
+{{- range $k, $v := $grouped -}}
+  {{- $sortedTags = $sortedTags | append (dict "name" $k "pages" $v) -}}
+{{- end -}}
+{{- $sortedTags = sort $sortedTags "name" -}}
+
+{{- range $sortedTags -}}
+<h2>{{ .name }}</h2>
+<ul>
+  {{- range .pages -}}
+  <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+  {{- end -}}
+</ul>
+{{- end -}}
+
+</div>
+{{- end -}}
