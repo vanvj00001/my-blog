@@ -1,19 +1,15 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>科学观 - 标签 - monkvan</title>
-    <link>https://vanvj00002.github.io/monkvan/tags/%E7%A7%91%E5%AD%A6%E8%A7%82/</link>
-    <description>老梵的个人随笔和思考</description>
-    <generator>Hugo 0.159.0 &amp; FixIt v0.4.5</generator>
-    <language>zh-CN</language>
-    <lastBuildDate>Sat, 14 Mar 2026 14:30:00 +0800</lastBuildDate>
-    <atom:link href="https://vanvj00002.github.io/monkvan/tags/%E7%A7%91%E5%AD%A6%E8%A7%82/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>洞穴之外</title>
-      <link>https://vanvj00002.github.io/monkvan/posts/beyond-the-cave-science-hypothesis/</link>
-      <pubDate>Sat, 14 Mar 2026 14:30:00 +0800</pubDate>
-      <guid>https://vanvj00002.github.io/monkvan/posts/beyond-the-cave-science-hypothesis/</guid>
-      <description>&lt;h1 class=&#34;heading-element&#34; id=&#34;洞穴之外为什么科学必须从假设开始&#34;&gt;&lt;span&gt;洞穴之外：为什么科学必须从假设开始&lt;/span&gt;&#xA;  &lt;a href=&#34;#%e6%b4%9e%e7%a9%b4%e4%b9%8b%e5%a4%96%e4%b8%ba%e4%bb%80%e4%b9%88%e7%a7%91%e5%ad%a6%e5%bf%85%e9%a1%bb%e4%bb%8e%e5%81%87%e8%ae%be%e5%bc%80%e5%a7%8b&#34; class=&#34;heading-mark&#34;&gt;&#xA;    &lt;svg class=&#34;octicon octicon-link&#34; viewBox=&#34;0 0 16 16&#34; version=&#34;1.1&#34; width=&#34;16&#34; height=&#34;16&#34; aria-hidden=&#34;true&#34;&gt;&lt;path d=&#34;m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z&#34;&gt;&lt;/path&gt;&lt;/svg&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;关键词&lt;/strong&gt;：科学假设、认识论、可证伪性、科学方法、真理逼近、模型化、科学观、世界观、洞穴比喻、认知局限&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 class=&#34;heading-element&#34; id=&#34;前言&#34;&gt;&lt;span&gt;前言&lt;/span&gt;&#xA;  &lt;a href=&#34;#%e5%89%8d%e8%a8%80&#34; class=&#34;heading-mark&#34;&gt;&#xA;    &lt;svg class=&#34;octicon octicon-link&#34; viewBox=&#34;0 0 16 16&#34; version=&#34;1.1&#34; width=&#34;16&#34; height=&#34;16&#34; aria-hidden=&#34;true&#34;&gt;&lt;path d=&#34;m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z&#34;&gt;&lt;/path&gt;&lt;/svg&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&lt;p&gt;你有没有想过这样一个问题：为什么科学家总是在说“假设”？为什么他们不直接告诉我们“真理”？&lt;/p&gt;&#xA;&lt;p&gt;在日常生活中，我们习惯于确定性。吃饭能饱，喝水解渴，太阳每天从东边升起——这些是确定的。但科学面对的是未知，是人类认知边界之外的领域。当人类试图理解那些看不见、摸不着、远超日常经验的现象时，我们必须有一个起点。&lt;/p&gt;&#xA;&lt;p&gt;这个起点，就是假设。&lt;/p&gt;&#xA;&lt;p&gt;很多人误解假设，以为它是“随便猜猜”，是科学还不够成熟的标志。恰恰相反——假设是科学之所以成为科学的核心特征，是人类能够走出认知洞穴的唯一途径。&lt;/p&gt;&#xA;&lt;p&gt;本文将从认识论的角度，解析科学假设的本质、功能和方法论意义，帮助读者建立正确的科学观和世界观，在信息爆炸、观点纷争的时代，拥有一双看清真相的眼睛。&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>科学观 - 标签 - monkvan</title><link>https://vanvj00002.github.io/monkvan/tags/%E7%A7%91%E5%AD%A6%E8%A7%82/</link><description>老梵的个人随笔和思考</description><generator>Hugo 0.159.0 &amp; FixIt v0.4.5</generator><language>zh-CN</language><lastBuildDate>Sat, 14 Mar 2026 14:30:00 +0800</lastBuildDate><atom:link href="https://vanvj00002.github.io/monkvan/tags/%E7%A7%91%E5%AD%A6%E8%A7%82/index.xml" rel="self" type="application/rss+xml"/><item><title>洞穴之外</title><link>https://vanvj00002.github.io/monkvan/posts/beyond-the-cave-science-hypothesis/</link><pubDate>Sat, 14 Mar 2026 14:30:00 +0800</pubDate><guid>https://vanvj00002.github.io/monkvan/posts/beyond-the-cave-science-hypothesis/</guid><description>&lt;h1 class="heading-element" id="洞穴之外为什么科学必须从假设开始"&gt;&lt;span&gt;洞穴之外：为什么科学必须从假设开始&lt;/span&gt;
+ &lt;a href="#%e6%b4%9e%e7%a9%b4%e4%b9%8b%e5%a4%96%e4%b8%ba%e4%bb%80%e4%b9%88%e7%a7%91%e5%ad%a6%e5%bf%85%e9%a1%bb%e4%bb%8e%e5%81%87%e8%ae%be%e5%bc%80%e5%a7%8b" class="heading-mark"&gt;
+ &lt;svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"&gt;&lt;path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"&gt;&lt;/path&gt;&lt;/svg&gt;
+ &lt;/a&gt;
+&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;关键词&lt;/strong&gt;：科学假设、认识论、可证伪性、科学方法、真理逼近、模型化、科学观、世界观、洞穴比喻、认知局限&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 class="heading-element" id="前言"&gt;&lt;span&gt;前言&lt;/span&gt;
+ &lt;a href="#%e5%89%8d%e8%a8%80" class="heading-mark"&gt;
+ &lt;svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"&gt;&lt;path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"&gt;&lt;/path&gt;&lt;/svg&gt;
+ &lt;/a&gt;
+&lt;/h2&gt;&lt;p&gt;你有没有想过这样一个问题：为什么科学家总是在说“假设”？为什么他们不直接告诉我们“真理”？&lt;/p&gt;
+&lt;p&gt;在日常生活中，我们习惯于确定性。吃饭能饱，喝水解渴，太阳每天从东边升起——这些是确定的。但科学面对的是未知，是人类认知边界之外的领域。当人类试图理解那些看不见、摸不着、远超日常经验的现象时，我们必须有一个起点。&lt;/p&gt;
+&lt;p&gt;这个起点，就是假设。&lt;/p&gt;
+&lt;p&gt;很多人误解假设，以为它是“随便猜猜”，是科学还不够成熟的标志。恰恰相反——假设是科学之所以成为科学的核心特征，是人类能够走出认知洞穴的唯一途径。&lt;/p&gt;
+&lt;p&gt;本文将从认识论的角度，解析科学假设的本质、功能和方法论意义，帮助读者建立正确的科学观和世界观，在信息爆炸、观点纷争的时代，拥有一双看清真相的眼睛。&lt;/p&gt;</description></item></channel></rss>
