@@ -1,19 +1,7 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>因果关系 on 空中小屋</title><link>https://vanvj00003.github.io/my-blog/tags/%E5%9B%A0%E6%9E%9C%E5%85%B3%E7%B3%BB/</link><description>Recent content in 因果关系 on 空中小屋</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 27 Mar 2026 14:30:00 +0800</lastBuildDate><atom:link href="https://vanvj00003.github.io/my-blog/tags/%E5%9B%A0%E6%9E%9C%E5%85%B3%E7%B3%BB/index.xml" rel="self" type="application/rss+xml"/><item><title>宇宙没有偶然</title><link>https://vanvj00003.github.io/my-blog/posts/no-coincidence-in-universe/</link><pubDate>Fri, 27 Mar 2026 14:30:00 +0800</pubDate><guid>https://vanvj00003.github.io/my-blog/posts/no-coincidence-in-universe/</guid><description>&lt;h1 id="宇宙没有偶然从随机函数到确定性的世界"&gt;
- 宇宙没有偶然：从随机函数到确定性的世界
- &lt;a class="heading-link" href="#%e5%ae%87%e5%ae%99%e6%b2%a1%e6%9c%89%e5%81%b6%e7%84%b6%e4%bb%8e%e9%9a%8f%e6%9c%ba%e5%87%bd%e6%95%b0%e5%88%b0%e7%a1%ae%e5%ae%9a%e6%80%a7%e7%9a%84%e4%b8%96%e7%95%8c"&gt;
- &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
- &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
- &lt;/a&gt;
-&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>因果关系 on 空中小屋</title><link>https://vanvj00003.github.io/my-blog/tags/%E5%9B%A0%E6%9E%9C%E5%85%B3%E7%B3%BB/</link><description>Recent content in 因果关系 on 空中小屋</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 27 Mar 2026 14:30:00 +0800</lastBuildDate><atom:link href="https://vanvj00003.github.io/my-blog/tags/%E5%9B%A0%E6%9E%9C%E5%85%B3%E7%B3%BB/index.xml" rel="self" type="application/rss+xml"/><item><title>宇宙没有偶然</title><link>https://vanvj00003.github.io/my-blog/posts/no-coincidence-in-universe/</link><pubDate>Fri, 27 Mar 2026 14:30:00 +0800</pubDate><guid>https://vanvj00003.github.io/my-blog/posts/no-coincidence-in-universe/</guid><description>&lt;h1 id="宇宙没有偶然从随机函数到确定性的世界"&gt;宇宙没有偶然：从随机函数到确定性的世界&lt;a class="anchor" href="#%e5%ae%87%e5%ae%99%e6%b2%a1%e6%9c%89%e5%81%b6%e7%84%b6%e4%bb%8e%e9%9a%8f%e6%9c%ba%e5%87%bd%e6%95%b0%e5%88%b0%e7%a1%ae%e5%ae%9a%e6%80%a7%e7%9a%84%e4%b8%96%e7%95%8c"&gt;#&lt;/a&gt;&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;关键词&lt;/strong&gt;：偶然、随机、随机函数、伪随机、决定论、因果律、宇宙秩序、科学哲学、量子力学、拉普拉斯妖、逻辑推导、宇宙稳定性&amp;hellip;&lt;/p&gt;
 &lt;hr&gt;
-&lt;h2 id="前言"&gt;
- 前言
- &lt;a class="heading-link" href="#%e5%89%8d%e8%a8%80"&gt;
- &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
- &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
- &lt;/a&gt;
-&lt;/h2&gt;
+&lt;h2 id="前言"&gt;前言&lt;a class="anchor" href="#%e5%89%8d%e8%a8%80"&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;作为一个程序员，我们每天都在和“随机”打交道。代码里的 &lt;code&gt;rand()&lt;/code&gt;、&lt;code&gt;random()&lt;/code&gt;，看似给我们带来了不可预测的结果。但我们也清楚地知道，这些所谓的“随机数”，背后不过是一套确定的算法——给一个初始值（种子），输出就是确定的。真正的“随机”，在我们的世界里并不存在，我们只是在用“随机”这个词语，来标记那些我们暂时无法预测的领域。&lt;/p&gt;
 &lt;p&gt;那么，把这个逻辑推到整个宇宙呢？科学上常说“偶然事件”、“随机现象”，甚至量子力学里也有“真随机”的说法。但如果我们用同样的逻辑去审视——所谓的偶然，会不会也只是人类认知局限的产物？宇宙本身，真的有“偶然”这回事吗？&lt;/p&gt;
 &lt;p&gt;这个问题看似抽象，却关乎我们如何看待世界、理解因果、安放自身。本文尝试从一个程序员的直觉出发，用逻辑推导的方式，探讨“宇宙是否存在偶然”这一命题。&lt;/p&gt;</description></item></channel></rss>
