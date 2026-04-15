@@ -3,16 +3,11 @@ title = "空中小屋"
 theme = "hugo-book"
 languageCode = "zh-cn"
 
-# Book configuration
-disablePathToLower = true
-enableGitInfo = truebaseURL = "https://vanvj00001.github.io/my-blog/"
-title = "空中小屋"
-theme = "hugo-book"
-languageCode = "zh-cn"
-
-# Book configuration
 disablePathToLower = true
 enableGitInfo = true
+
+[markup]
+  [markup.goldmark.renderer]
     unsafe = true
 
   [markup.tableOfContents]
